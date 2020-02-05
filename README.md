@@ -2,7 +2,7 @@
 
 # Distract Driver Detection By Haseeb
 
-![](https://thumbs.dreamstime.com/z/car-wheel-flames-logo-22961885.jpg =10x10)
+![](https://thumbs.dreamstime.com/z/car-wheel-flames-logo-22961885.jpg)
 
 
 ### Files
